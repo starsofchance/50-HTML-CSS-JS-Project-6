@@ -6,4 +6,4 @@
 # 50 HTML, CSS, and JS sample project
 ## Project 6:  Background Image ScrollEffect
 A Preview of the project output.
-![](https://github.com/starsofchance/50-HTML-CSS-JS-Project-6/blob/main/Animation.mp4)
+![](https://github.com/starsofchance/50-HTML-CSS-JS-Project-6/blob/main/Animation2.gif)
